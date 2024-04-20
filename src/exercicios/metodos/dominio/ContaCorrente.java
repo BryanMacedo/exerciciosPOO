@@ -1,4 +1,4 @@
-package exercicios.metodos;
+package exercicios.metodos.dominio;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package exercicios.metodos;
+package exercicios.metodos.dominio;
 
 public class Lampada {
     private String marca;

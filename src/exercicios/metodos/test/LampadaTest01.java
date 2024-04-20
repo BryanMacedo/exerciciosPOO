@@ -1,6 +1,6 @@
 package exercicios.metodos.test;
 
-import exercicios.metodos.Lampada;
+import exercicios.metodos.dominio.Lampada;
 
 import java.util.Scanner;
 

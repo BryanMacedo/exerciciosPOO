@@ -1,6 +1,6 @@
 package exercicios.metodos.test;
 
-import exercicios.metodos.ContaCorrente;
+import exercicios.metodos.dominio.ContaCorrente;
 
 import java.util.Scanner;
 
